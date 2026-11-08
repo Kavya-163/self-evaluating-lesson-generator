@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "topic": "Introduction to RAG",
+      "status": "SHIPPED",
+      "attempts_used": 2,
+      "rejection_count": 1
+    },
+    {
+      "topic": "Introduction to RAG",
+      "status": "SHIPPED",
+      "attempts_used": 2,
+      "rejection_count": 1
+    }
+  ],
+  "learned_guidance": [
+    "Fix accuracy: False claim detected: RAG cannot guarantee that every answer is correct."
+  ]
+}
